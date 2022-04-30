@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning how the web works
 - 🌱 I’m currently learning Javascript and it's frameworks
 - 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me Mohithhb@gmai.com
+- 📫 How to reach me Mohithhb@gmail.com
 
 <!---
 mohithhb/mohithhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
